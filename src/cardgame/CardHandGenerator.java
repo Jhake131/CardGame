@@ -23,5 +23,9 @@ public class CardHandGenerator {
         }
         return hand;
     }
+    public static void printInfo()
+    {
+        System.out.println("My name is Jose Iv Camotes, I'm a first year student on SDNE program. :) ");
+    }
 
 }
